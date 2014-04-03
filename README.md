@@ -11,7 +11,7 @@ Monitor EE
 
 **Licensing**
 
-Needle is licensed under GNU Lesser General Public License (LGPL) version 2.1 or later.
+MonitorEE is licensed under GNU Lesser General Public License (LGPL) version 2.1 or later.
 
 
 **Needle URLs**
