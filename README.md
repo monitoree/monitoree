@@ -7,11 +7,9 @@ Monitor EE
 **Core Features:**
 
 
-
-
 **Licensing**
 
-MonitorEE is licensed under Revised BSD License.
+MonitorEE is licensed under 'BSD 3-clause "New" or "Revised" License'.
 
 
 **Needle URLs**
@@ -19,8 +17,6 @@ MonitorEE is licensed under Revised BSD License.
 * Source Code:			https://github.com/MonitorEE/monitoree
 * Issue Tracking:			https://github.com/MonitorEE/monitoree/issues
 * [monitoree@ohloh.net](https://www.ohloh.net/p/monitoree)
-
-
 
 <script type="text/javascript" src="http://www.ohloh.net/p/714248/widgets/project_thin_badge.js">
 </script>
