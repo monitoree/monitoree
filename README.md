@@ -1,7 +1,7 @@
 Monitor EE
 ================================
 
-**MonitorEE is a lightweight framework for monitoring Java EE application and components. It provides a simple Java API for registration of different parts of the application and resources, which are used by the latter. In addition it exposes the entire information about one application over Java Management API, so monitoring of applications in operation becomes easy.**
+**MonitorEE is a lightweight framework for monitoring Java EE application and components. It provides a simple Java API for registration of different parts of the application and resources, which are used by the latter. In addition it exposes the entire information about one application over Java Management eXtensions (JMX), so monitoring of applications in operation becomes easy.**
 
 
 **Core Features:**
