@@ -21,8 +21,8 @@
 	</parent>
 
 	<name>monitoree</name>
-	<description>Please refer to https://github.com/monitoree/monitoree.</description>
-	<url>https://github.com/monitoree/monitoree</url>
+	<description>Please refer to https://github.com/MonitorEE/monitoree.</description>
+	<url>https://github.com/MonitorEE/monitoree</url>
 
 	<organization>
 		<name>Holisticon AG</name>
@@ -75,6 +75,7 @@
 		<hamcrest.version>1.3</hamcrest.version>
 		<mockito.version>1.9.5</mockito.version>
 		<powermock.version>1.5.4</powermock.version>
+		<slf4j.version>1.7.2</slf4j.version>
 	</properties>
 
 	<build>
@@ -317,7 +318,6 @@
 				<version>${slf4j.version}</version>
 				<scope>provided</scope>
 			</dependency>
-
 		</dependencies>
 	</dependencyManagement>
 </project>
